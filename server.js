@@ -11,7 +11,7 @@ const resolvers = {
     Query: {
         greet: () => 'Hello World!'
 }
-
+};
 
 
 const server = new ApolloServer({ typeDefs, resolvers });
