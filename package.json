@@ -1,0 +1,29 @@
+{
+  "name": "chitchatsphere",
+  "version": "1.0.0",
+  "description": "ChitChatSphere is a real-time web-based private chat application that's easy to use, highly reliable, and endlessly entertaining. Built with advanced GraphQL and Node.js technologies, our app ensures secure communications and a seamless user experience. It's perfect for those seeking high-quality, on-demand, personal and group conversations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidmonks/ChitChatSphere.git"
+  },
+  "keywords": [
+    "Real-time chat application",
+    "Private chat app",
+    "Web-based chat",
+    "GraphQL chat", 
+    "Node.js chat app",
+    "React.js chat application",
+    "Secure web chat"
+
+  ],
+  "author": "Liquid Monks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liquidmonks/ChitChatSphere/issues"
+  },
+  "homepage": "https://github.com/liquidmonks/ChitChatSphere#readme"
+}
