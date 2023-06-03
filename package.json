@@ -14,16 +14,19 @@
     "Real-time chat application",
     "Private chat app",
     "Web-based chat",
-    "GraphQL chat", 
+    "GraphQL chat",
     "Node.js chat app",
     "React.js chat application",
     "Secure web chat"
-
   ],
   "author": "Liquid Monks",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/liquidmonks/ChitChatSphere/issues"
   },
-  "homepage": "https://github.com/liquidmonks/ChitChatSphere#readme"
+  "homepage": "https://github.com/liquidmonks/ChitChatSphere#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
 }
